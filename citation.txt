@@ -1,0 +1,7 @@
+@inproceedings{REPO199,
+    author = "Liu, Jiawei and Wang, Qiang and Fan, Huijie and Wang, Yinong and Tang, Yandong and Qu, Liangqiong",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "2773--2783",
+    title = "{Residual denoising diffusion models}",
+    year = "2024"
+}
